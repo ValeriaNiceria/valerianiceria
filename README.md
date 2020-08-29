@@ -1,4 +1,4 @@
-<img align="right" src="./img/girl.png" width="350"/>
+<img align="right" src="https://raw.githubusercontent.com/ValeriaNiceria/valerianiceria/master/img/girl.png" width="350"/>
 
 ### Hey! :wave:
 #### Welcome to my profile! I'm Valéria Nicéria! What's up?
