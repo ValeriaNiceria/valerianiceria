@@ -1,11 +1,11 @@
 <img align="right" src="https://raw.githubusercontent.com/ValeriaNiceria/valerianiceria/master/img/girl.png" width="350"/>
 
 <a href="https://www.linkedin.com/in/valerianiceria/" target="_blank">
-<img align="right" alt="LinkedIn" src="https://raw.githubusercontent.com/ValeriaNiceria/valerianiceria/master/img/icon_linkedin.png" width="40"/>
+<img align="right" alt="LinkedIn" src="https://raw.githubusercontent.com/ValeriaNiceria/valerianiceria/master/img/icon_linkedin.png" title="LinkedIn" width="40"/>
 </a>
 
 <a href="https://www.instagram.com/valeria.niceria.dev/" target="_blank">
-<img align="right" alt="Instagram" src="https://raw.githubusercontent.com/ValeriaNiceria/valerianiceria/master/img/icon_instagram.png" width="40"/>
+<img align="right" alt="Instagram" src="https://raw.githubusercontent.com/ValeriaNiceria/valerianiceria/master/img/icon_instagram.png" title="Instagram" width="40"/>
 </a>
 
 <br/>
