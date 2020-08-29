@@ -1,7 +1,7 @@
 ### Hi there 👋 
 ### Welcome to my profile! What's up?
 
-- 🔭 I’m currently working on <a href="https://operdata.com.br/" target="_blank">Oper</a>.
+- :woman_technologist: I’m currently working on <a href="https://operdata.com.br/" target="_blank">Oper</a>.
 - :books: I’m currently learning statistics and on my journey to become a data scientist.
 
 
