@@ -10,6 +10,8 @@
 <img align="left" alt="Instagram" src="https://raw.githubusercontent.com/ValeriaNiceria/valerianiceria/master/img/icon_instagram.png" title="Instagram" width="40"/>
 </a>
 
+<br/>
+
 #### Welcome to my profile! What's up?
 
 - :woman_technologist: I’m currently working at <a href="https://operdata.com.br/" target="_blank">Oper</a>.
