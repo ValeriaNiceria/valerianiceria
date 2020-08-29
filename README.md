@@ -1,4 +1,7 @@
-### Welcome to my profile! I'm Valéria Nicéria! What's up?
+<img align="right" src="./img/girl.png" width="350"/>
+
+### Hey! :wave:
+#### Welcome to my profile! I'm Valéria Nicéria! What's up?
 
 - :woman_technologist: I’m currently working at <a href="https://operdata.com.br/" target="_blank">Oper</a>.
 - :books: I’m currently learning statistics and on my journey to become a data scientist.
