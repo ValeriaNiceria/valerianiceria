@@ -8,6 +8,8 @@
 
 <a href="https://www.instagram.com/valeria.niceria.dev/" target="_blank">
 <img align="left" alt="Instagram" src="https://raw.githubusercontent.com/ValeriaNiceria/valerianiceria/master/img/icon_instagram.png" title="Instagram" width="22"/>
+  
+<span align="left"> <img src="https://komarev.com/ghpvc/?username=valerianiceria" alt="Valéria Nicéria" title="Valéria Nicéria" /> </span>
 </a>
 
 <br/>
