@@ -12,7 +12,6 @@
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=valerianiceria" alt="Valéria Nicéria" /> </span>
 </a>
 
-<br/>
 
 #### Welcome to my profile! What's up?
 
