@@ -8,9 +8,14 @@
 
 <a href="https://www.instagram.com/valeria.niceria.dev/" target="_blank">
 <img align="left" alt="Instagram" src="https://raw.githubusercontent.com/ValeriaNiceria/valerianiceria/master/img/icon_instagram.png" title="Instagram" width="22"/>
-  
-<span align="left"> <img src="https://komarev.com/ghpvc/?username=valerianiceria" alt="Valéria Nicéria" /> </span>
 </a>
+  
+<a href="https://valerianiceria.github.io/" target="_blank">
+<img align="left" alt="Personal Page" src="https://raw.githubusercontent.com/ValeriaNiceria/valerianiceria/master/img/http.png" title="Personal Page" width="22"/>
+</a>
+
+<span align="left"> <img src="https://komarev.com/ghpvc/?username=valerianiceria" alt="Valéria Nicéria" /> </span>
+
 
 
 #### Welcome to my profile! What's up?
