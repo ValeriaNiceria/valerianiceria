@@ -11,7 +11,7 @@
 </a>
   
 <a href="https://valerianiceria.github.io/" target="_blank">
-<img align="left" alt="Personal Page" src="https://raw.githubusercontent.com/ValeriaNiceria/valerianiceria/master/img/http.png" title="Personal Page" width="22"/>
+<img align="left" alt="Personal Page" src="https://raw.githubusercontent.com/ValeriaNiceria/valerianiceria/master/img/pagina-da-web.png title="Personal Page" width="25"/>
 </a>
 
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=valerianiceria" alt="Valéria Nicéria" /> </span>
