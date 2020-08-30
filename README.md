@@ -20,7 +20,7 @@
 
 #### Welcome to my profile! What's up?
 
-- :woman_technologist: I’m currently working at <a href="https://operdata.com.br/" target="_blank">Oper</a>.
+- :woman_technologist: I’m currently working at <b><a href="https://operdata.com.br/" target="_blank" title="Oper">Oper</a></b>.
 - :books: I’m currently learning statistics and on my journey to become a Data Scientist.
 
 <br/>
