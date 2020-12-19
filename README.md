@@ -47,8 +47,14 @@
 </p> 
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=valerianiceria&show_icons=true" alt="Valéria Nicéria da Silva" style="max-width:50%; width:50%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valerianiceria&layout=compact&hide=html" alt="Valéria Nicéria da Silva" style="max-width:50%; width:50%;" />
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=valerianiceria&show_icons=true"
+       alt="Valéria Nicéria da Silva" 
+       style="max-width:50%; width:50%; background: rgb(0, 0, 0) transparent; background: rgba(0, 0, 0, 0.7);">
+  <img
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=valerianiceria&layout=compact&hide=html" 
+       alt="Valéria Nicéria da Silva"
+       style="max-width:50%; width:50%; background: rgb(0, 0, 0) transparent; background: rgba(0, 0, 0, 0.7);" />
 </p>
 
 
