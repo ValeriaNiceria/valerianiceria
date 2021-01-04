@@ -24,6 +24,8 @@
 - :books: I’m currently learning statistics and on my journey to become a Data Scientist.
 
 <br/>
+
+<!--
 <p align="left">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" title="Angular" width="25" height="25"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" title="Bootstrap" width="25" height="25"/>
@@ -45,6 +47,7 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" title="React" width="25" height="25"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" title="TypeScript" width="25" height="25"/>
 </p> 
+-->
 
 <p align="left">
   <img 
