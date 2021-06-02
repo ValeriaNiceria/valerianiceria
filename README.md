@@ -21,7 +21,7 @@
 #### Welcome to my profile! What's up?
 
 - :woman_technologist: I’m currently working for <b><a href="https://operdata.com.br/" target="_blank" title="Oper">Oper</a></b>.
-- :books: I’m currently learning statistics and on my journey to become a Data Scientist.
+- :books: I'm currently doing a post graduate course in Data Science at PUC-Minas.
 
 <br/>
 
