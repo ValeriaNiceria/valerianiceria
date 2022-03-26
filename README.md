@@ -6,9 +6,6 @@
 <img align="left" alt="LinkedIn" src="https://raw.githubusercontent.com/ValeriaNiceria/valerianiceria/master/img/icon_linkedin.png" title="LinkedIn" width="22"/>
 </a>
 
-<a href="https://www.instagram.com/valeria.niceria.dev/" target="_blank">
-<img align="left" alt="Instagram" src="https://raw.githubusercontent.com/ValeriaNiceria/valerianiceria/master/img/icon_instagram.png" title="Instagram" width="22"/>
-</a>
   
 <a href="https://valerianiceria.github.io/" target="_blank">
 <img align="left" alt="Personal Page" src="https://raw.githubusercontent.com/ValeriaNiceria/valerianiceria/master/img/pagina-da-web.png" title="Personal Page" width="25"/>
