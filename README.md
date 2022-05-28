@@ -11,15 +11,11 @@
 <img align="left" alt="Personal Page" src="https://raw.githubusercontent.com/ValeriaNiceria/valerianiceria/master/img/pagina-da-web.png" title="Personal Page" width="25"/>
 </a>
 
-
-
-<br/>
 <br/>
 
 #### Welcome to my profile! What's up?
 
-- :woman_technologist: I'm currently working at <b><a href="https://operdata.com.br/" target="_blank" title="Oper">Oper</a></b>.
-- :books: I'm currently doing a post graduate course in Data Science at PUC-Minas.
+
 
 <br/>
 
